@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(194, 213, 233);
+}
+
+/* Enrolled radio buttons */
+input[name="enrolled"]{
+    margin: 0 0 0 30px;
+}
+
+/* Home page icons */
+.fa-solid {
+    font-size: 100px;
+}
+
+/* Home page links */
+a.icon:link, a.icon:visited, a.icon:active {
+    color:black;
+    text-decoration: none;
+}
+
+a.icon:hover {
+    color:#1a75ff;
+}
+
+.top-buffer { 
+    margin-top:150px;
+}
