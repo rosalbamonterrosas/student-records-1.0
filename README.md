@@ -1,4 +1,4 @@
-# Student Records - Node.js + Express + Curl/Postman
+# Student Records - Node.js + Express
 Rosalba Monterrosas
 
 # Table of Contents
